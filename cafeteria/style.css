@@ -380,6 +380,6 @@ color: var(--cor-fundo-card);
 
   .rodape {
     flex-direction: column;
-    align-items: flex-start;`
+    align-items: flex-start;
   }
 }
